@@ -281,8 +281,8 @@ body::-webkit-scrollbar {
   width: 320px;
   height: 250px;
   opacity: 5px;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.4))), url(https://pbs.twimg.com/profile_images/1374233832057053190/xftrnScS_400x400.jpg) center bottom;
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)), url(https://pbs.twimg.com/profile_images/1374233832057053190/xftrnScS_400x400.jpg) center bottom;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.4))), url(https://www.cnet.com/a/img/hiBfkl2Rqq4cDhHlPQ_95iPM4Xo=/2020/07/07/6a87df20-4165-4d24-b3a4-18d55bf06863/rickrollscreenshot.jpg?sqp=-oaymwEZCOgCEMoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDhwHVgHNbi2KRmDWQ295f-lCBBkA) center bottom;
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)), url(https://www.cnet.com/a/img/hiBfkl2Rqq4cDhHlPQ_95iPM4Xo=/2020/07/07/6a87df20-4165-4d24-b3a4-18d55bf06863/rickrollscreenshot.jpg?sqp=-oaymwEZCOgCEMoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDhwHVgHNbi2KRmDWQ295f-lCBBkA) center bottom;
   background-size: cover;
 }
 .player nav {
@@ -452,7 +452,7 @@ body::-webkit-scrollbar {
 .player .music .song-2 .info .img.first,
 .player .music .song-3 .info .img.first,
 .player .music .song-4 .info .img.first {
-  background: url(https://hiphop24x7.com/wp-content/uploads/2014/09/Eminem-Sets-a-New-Guinness-World-Record-With-Single-Rap-God.jpg) center center;
+  background: url(https://pbs.twimg.com/profile_images/1374233832057053190/xftrnScS_400x400.jpg) center center;
   background-size: cover;
 }
 .player .music .song-1 .info .img.second,
