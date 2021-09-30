@@ -281,8 +281,8 @@ body::-webkit-scrollbar {
   width: 320px;
   height: 250px;
   opacity: 5px;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.4))), url(https://i.ytimg.com/vi/L5K3IxINr7A/hq720.jpg?sqp=-oaymwEZCOgCEMoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDhwHVgHNbi2KRmDWQ295f-lCBBkA) center bottom;
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)), url(https://i.ytimg.com/vi/L5K3IxINr7A/hq720.jpg?sqp=-oaymwEZCOgCEMoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDhwHVgHNbi2KRmDWQ295f-lCBBkA) center bottom;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.4))), url(https://images6.fanpop.com/image/photos/38200000/Eminem-Rap-God-Music-Video-eminem-38223977-1920-1080.jpg?sqp=-oaymwEZCOgCEMoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDhwHVgHNbi2KRmDWQ295f-lCBBkA) center bottom;
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)), url(https://images6.fanpop.com/image/photos/38200000/Eminem-Rap-God-Music-Video-eminem-38223977-1920-1080.jpg?sqp=-oaymwEZCOgCEMoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDhwHVgHNbi2KRmDWQ295f-lCBBkA) center bottom;
   background-size: cover;
 }
 .player nav {
@@ -452,21 +452,21 @@ body::-webkit-scrollbar {
 .player .music .song-2 .info .img.first,
 .player .music .song-3 .info .img.first,
 .player .music .song-4 .info .img.first {
-  background: url(https://i.scdn.co/image/ab67616d00001e020a98bebb4b568687701409d3) center center;
+  background: url(https://hiphop24x7.com/wp-content/uploads/2014/09/Eminem-Sets-a-New-Guinness-World-Record-With-Single-Rap-God.jpg) center center;
   background-size: cover;
 }
 .player .music .song-1 .info .img.second,
 .player .music .song-2 .info .img.second,
 .player .music .song-3 .info .img.second,
 .player .music .song-4 .info .img.second {
-  background: url(https://i.scdn.co/image/ab67616d00001e02a91054119705d195a515a8e1) center center;
+  background: url(https://i.ytimg.com/an/HeOpRzcqKrE/13901495562002645460_mq.jpg?v=60d9bb44) center center;
   background-size: cover;
 }
 .player .music .song-1 .info .img.third,
 .player .music .song-2 .info .img.third,
 .player .music .song-3 .info .img.third,
 .player .music .song-4 .info .img.third {
-  background: url(https://i.scdn.co/image/ab67616d00001e02bcc914e3ccefaa2fd844ca0a) center center;
+  background: url(https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/The_Kid_Laroi_and_Justin_Bieber_-_Stay.png/220px-The_Kid_Laroi_and_Justin_Bieber_-_Stay.png) center center;
   background-size: cover;
 }
 
