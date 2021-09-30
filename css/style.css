@@ -281,8 +281,8 @@ body::-webkit-scrollbar {
   width: 320px;
   height: 250px;
   opacity: 5px;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.4))), url(https://i0.wp.com/i.dailymail.co.uk/1s/2021/07/29/20/46061771-0-image-a-349_1627585586527.jpg?sqp=-oaymwEZCOgCEMoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDhwHVgHNbi2KRmDWQ295f-lCBBkA) center bottom;
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)), url(https://i0.wp.com/i.dailymail.co.uk/1s/2021/07/29/20/46061771-0-image-a-349_1627585586527.jpg?sqp=-oaymwEZCOgCEMoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDhwHVgHNbi2KRmDWQ295f-lCBBkA) center bottom;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.4))), url(https://www.totalntertainment.com/wp-content/uploads/Rick-Astley-1.jpg?sqp=-oaymwEZCOgCEMoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDhwHVgHNbi2KRmDWQ295f-lCBBkA) center bottom;
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)), url(https://www.totalntertainment.com/wp-content/uploads/Rick-Astley-1.jpg?sqp=-oaymwEZCOgCEMoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDhwHVgHNbi2KRmDWQ295f-lCBBkA) center bottom;
   background-size: cover;
 }
 .player nav {
